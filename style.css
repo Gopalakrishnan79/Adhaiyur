@@ -1,0 +1,39 @@
+p
+{
+   color: red;
+  width: 500px;
+  border: 1px solid black;
+}
+ol 
+{
+    color: red;
+  width: 500px;
+  border: 5px solid Green;
+}
+.Medical
+{
+    color: blue;
+  width: 500px;
+  border: 10px solid brown; 
+}
+.college{
+    color:darkblue;
+    width:500px;
+     line-height: 2;
+  letter-spacing: 1px;
+   padding: 2000 2000px 2000px 200px;
+  border: 2px solid black;
+    text-shadow: 3px 0px 1px Yellow;
+    background-color: dodgerblue;
+
+}
+p:hover
+{
+    background-color: aqua;
+    font-family: cursive;
+    font-size: 20px;
+}
+body
+{
+    background-color:darkslategray;
+}
